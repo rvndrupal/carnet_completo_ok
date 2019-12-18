@@ -1,0 +1,7 @@
+user-->superadministrat
+pass-->rorro131319++
+
+1.-Dar de alta los roles.
+2.-importar todos los permisos carpeta excel
+3.-Migrar todos los catalogos
+4.-Migrar todos los codigo postales con -> url.  http://localhost/recursos/public/admin/importar

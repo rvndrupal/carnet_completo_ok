@@ -1,0 +1,8 @@
+Requerimientos del sistema para su correcto funcionamiento.
+
+1.-Apache 2.1 hasta 2.4
+2.-MySQL 5.7
+3.-PHP 7.0 hasta 7.2
+4.-Npm
+5.-git
+6.-yarn
